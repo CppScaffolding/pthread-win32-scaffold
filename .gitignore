@@ -1,0 +1,4 @@
+## .gitignore file for pthread-win32-scaffold
+
+## ignore folder fetched through gclient
+pthread-win32
